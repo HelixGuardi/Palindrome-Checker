@@ -32,7 +32,8 @@ Designed with a **dark mode aesthetic**, this mini-app is as intuitive as it is 
 
 ## 🚀 Live Demo
 
-👉 [Check it live here](https://your-username.github.io/your-repo-name)  
+Check out the live version of the Palindrome Checker here:  
+👉 [Palindrome Checker on GitHub Pages](https://helixguardi.github.io/Palindrome-Checker/)
 
 ---
 

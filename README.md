@@ -26,7 +26,7 @@ Designed with a **dark mode aesthetic**, this mini-app is as intuitive as it is 
 
 ## 🖼️ Preview
 
-![screenshot of the project](./screenshot.png)  
+![screenshot of the project](./how-it-looks-like.png)  
 
 ---
 
